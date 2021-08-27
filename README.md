@@ -3,8 +3,6 @@
 Meu nome é Camila. Sou estudante de desenvolvimento de software.   
 
 Sou apaixonada em tecnologia, e gosto de sempre estar aprendendo novas tecnologias que me desafiam. 💻📚
- 
-##
 
  <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -12,6 +10,8 @@ Sou apaixonada em tecnologia, e gosto de sempre estar aprendendo novas tecnologi
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+ 
+##
 
 Me encontre 👇🏼
 
