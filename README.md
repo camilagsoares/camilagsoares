@@ -4,7 +4,8 @@
 
 ## Sobre mim 😀
 
-* Meu nome é Camila Goulart Soares
+* Meu nome é Camila Goulart Soares, sou de Itajubá - Minas Gerais
+* Estou finalizando o bootcamp web Full Stack Labenu 
 
 Meu nome é Camila. Sou estudante de desenvolvimento de software.   
 
