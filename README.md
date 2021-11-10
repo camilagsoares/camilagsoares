@@ -20,10 +20,9 @@
  
 ## Me encontre 
 
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-green?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camilagoulartsoares/)](https://www.linkedin.com/in/camilagoulartsoares/)
- [![Instagram Badge](https://img.shields.io/badge/-Instagram-pink?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_camilags/)](https://www.instagram.com/_camilags/)
-
-
-
-
+  <a href="https://www.instagram.com/_camilags/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:camila.soares19@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/camilagoulartsoares/" target="_blank">
+ <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
 
