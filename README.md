@@ -1,4 +1,4 @@
-# Oi 👋
+# Oi 🖐
 
 <img align="center" alt="Gif" width="900" height="320" src="https://user-images.githubusercontent.com/89659564/141134891-6c3ffd3e-3872-43e1-8911-8bae3ca3e34e.gif">
 
