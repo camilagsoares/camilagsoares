@@ -6,7 +6,7 @@
 
 * Meu nome é Camila Goulart Soares, sou de Itajubá - Minas Gerais
 * Sou estudante de desenvolvimento de software.   
-* Amo escrever códigos, e sou muito feliz por ter conhecido a programação.
+* Sou muito feliz por ter conhecido a programação.
 
 
 ## Tecnologias
