@@ -4,8 +4,6 @@
 
 ## Sobre mim 😀
 
-#
-
 * Meu nome é Camila Goulart Soares
 
 Meu nome é Camila. Sou estudante de desenvolvimento de software.   
