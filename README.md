@@ -16,13 +16,13 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="CSS" height="30" width="40" src="https://user-images.githubusercontent.com/85360804/141141452-4bb1a33b-1ff8-4d88-b1df-9a98944889ee.png">
 
 </div>
  
 ## Me encontre 
 
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camilagoulartsoares/)](https://www.linkedin.com/in/camilagoulartsoares/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_camilags/)](https://www.instagram.com/_camilags/)
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camilagoulartsoares/)](https://www.linkedin.com/in/camilagoulartsoares/)
+ [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_camilags/)](https://www.instagram.com/_camilags/)
 
 
 
