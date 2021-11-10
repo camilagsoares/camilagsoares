@@ -5,9 +5,9 @@
 ## Sobre mim 😀
 
 * Meu nome é Camila Goulart Soares, sou de Itajubá - Minas Gerais
-* Dedico diariamente para me tornar uma dev full stack.
-* Apaixonada por desenvolvimento, em especial por front-end.
-* Atualmente estou estudando Node.js,Typescript,MySQL.
+* Estou finalizando o bootcamp Full Stack da Labenu
+* Apaixonada por desenvolvimento, em especial por front-end
+* Atualmente estudo Node.js,Typescript,MySQL.
 
 ## Stack
 
