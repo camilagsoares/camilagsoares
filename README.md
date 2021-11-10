@@ -5,11 +5,11 @@
 ## Sobre mim 😀
 
 * Meu nome é Camila Goulart Soares, sou de Itajubá - Minas Gerais
-* Estou finalizando o bootcamp web Full Stack Labenu 
+* Sou estudante de desenvolvimento de software.   
+* Amo escrever códigos, e sou muito feliz por ter conhecido a programação.
 
-Meu nome é Camila. Sou estudante de desenvolvimento de software.   
 
-Sou apaixonada em tecnologia, e gosto de sempre estar aprendendo novas tecnologias que me desafiam. 💻📚
+## Tecnologias
 
  <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
