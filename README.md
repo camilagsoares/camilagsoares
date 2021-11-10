@@ -6,7 +6,7 @@
 
 * Meu nome é Camila Goulart Soares, sou de Itajubá - Minas Gerais
 * Sou estudante de desenvolvimento de software.   
-* Sou muito feliz por ter conhecido a programação.
+* Apaixonada por desenvolvimento, em especial por front-end.
 * Atualmente estou estudando Node.js,Typescript,MySQL.
 
 ## Stack
