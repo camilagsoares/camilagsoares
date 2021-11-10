@@ -25,4 +25,3 @@
 
 
 
- ![](https://visitor-badge.glitch.me/badge?page_id=camilagsoares.camilagsoares&style=flat-square&color=E91667)
