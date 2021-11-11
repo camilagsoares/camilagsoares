@@ -23,11 +23,11 @@
   <a href="https://www.linkedin.com/in/camilagoulartsoares/" target="_blank">
  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-<img align="right" width="300px" style="margin-top:-20px" src="https://user-images.githubusercontent.com/85360804/141311594-0746e9f9-272c-4b99-aaeb-0127dfca0d47.gif">
 
 <div img align="center">
 <a href="https://github.com/camilagsoares">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilagsoares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeniblodev&layout=compact&langs_count=8&theme=dracula"/>
 </div>
 
 
