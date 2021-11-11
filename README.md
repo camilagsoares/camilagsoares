@@ -1,7 +1,5 @@
 # Oi,seja bem vindo 🖐
 
-<img align="right" width="300px" style="margin-top:-20px" src="https://user-images.githubusercontent.com/85360804/141311594-0746e9f9-272c-4b99-aaeb-0127dfca0d47.gif">
-
 ## Sobre mim 😀
 
 * Meu nome é Camila Goulart Soares e sou de Itajubá - Minas Gerais
@@ -25,6 +23,7 @@
   <a href="https://www.linkedin.com/in/camilagoulartsoares/" target="_blank">
  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+<img align="right" width="300px" style="margin-top:-20px" src="https://user-images.githubusercontent.com/85360804/141311594-0746e9f9-272c-4b99-aaeb-0127dfca0d47.gif">
 
 <div img align="center">
 <a href="https://github.com/camilagsoares">
