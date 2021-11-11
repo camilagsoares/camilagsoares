@@ -31,4 +31,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilagsoares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+  
+  ![e593ab0589d5f1b389e4dfbcce2bce20](https://user-images.githubusercontent.com/85360804/141310977-eb17e125-6fc1-48e4-869e-705c2873c047.gif)
+
 
