@@ -1,5 +1,7 @@
 # Oi,seja bem vindo 🖐
 
+<img align="center" alt="Gif" width="850" height="300" src="https://user-images.githubusercontent.com/89659564/141134891-6c3ffd3e-3872-43e1-8911-8bae3ca3e34e.gif">
+
 ## Sobre mim 😀
 
 * Meu nome é Camila Goulart Soares e sou de Itajubá - Minas Gerais
