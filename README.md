@@ -1,6 +1,6 @@
 # Oi,seja bem vindo 🖐
 
-<img align="center" alt="Gif" width="850" height="280" src="https://user-images.githubusercontent.com/85360804/142891634-a4b01674-9c90-4039-8bc0-81f4bcdee9ae.jpg">
+<img align="center" alt="Gif" width="850" height="260" src="https://user-images.githubusercontent.com/85360804/142891634-a4b01674-9c90-4039-8bc0-81f4bcdee9ae.jpg">
 
 
 
