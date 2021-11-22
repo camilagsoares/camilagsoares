@@ -1,6 +1,7 @@
 # Oi,seja bem vindo 🖐
 
-<img align="center" alt="Gif" width="850" height="300" src="https://user-images.githubusercontent.com/89659564/141134891-6c3ffd3e-3872-43e1-8911-8bae3ca3e34e.gif">
+<img align="center" alt="Gif" width="850" height="300" src="https://user-images.githubusercontent.com/85360804/142891183-1c836c68-af28-4071-9594-007c11fc4e5a.jpg">
+
 
 ## Sobre mim 😀
 
