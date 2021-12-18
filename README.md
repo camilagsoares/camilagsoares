@@ -1,7 +1,7 @@
 # Oi,seja bem vindo 🖐
 
 
-## Sobre mim 😀
+## Sobre mim 😄
 
 * Meu nome é Camila Goulart Soares e sou de Itajubá - Minas Gerais
 * Estou finalizando o bootcamp Full Stack da Labenu
