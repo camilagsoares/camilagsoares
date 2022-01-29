@@ -5,7 +5,7 @@
 
 * Meu nome é Camila Goulart Soares e sou de Itajubá - Minas Gerais
 * Bolsista programa Boticário Desenvolve 2022 - Web Full Stack
-* Estudante de análise e desenvolvimento de Sistemas
+* Estudante de Análise e Desenvolvimento de Sistemas
 * Apaixonada por desenvolvimento, em especial por front-end
 * Atualmente estudo Node.js,Typescript,MySQL.
 
