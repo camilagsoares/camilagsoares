@@ -19,7 +19,7 @@
 
 
 <div img align="center">
-   <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilagsoares&layout=compact&langs_count=7&theme=react&hide_border=true"/>
+   <img height="180em" width="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilagsoares&layout=compact&langs_count=7&theme=react&hide_border=true"/>
 <a href="https://github.com/camilagsoares">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilagsoares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
