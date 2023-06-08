@@ -1,7 +1,7 @@
-# Oi,seja bem vindo 🖐
+# Oi,seja bem vindo 🖐👩🏻‍💻
 
 
-## Sobre mim 😄
+## Sobre mim 😸
 
 
 
