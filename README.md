@@ -13,6 +13,9 @@ Como estudante de Análise e Desenvolvimento de Sistemas, minha paixão está es
 - Entre em contato comigo pelo <a href="mailto:camila.soares19@hotmail.com"> E-mail</a> 🏓
 - Meu <a href="https://www.linkedin.com/in/camilagoulartsoares/">LinkedIn</a> 💼
 
+<br><br>
+
+
 
 ## Stack
 <div style="display: inline_block"><br>
