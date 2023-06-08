@@ -26,12 +26,6 @@
 </div>
 
 
-<div img align="center">
-   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilagsoares&layout=compact&langs_count=7&theme=react&hide_border=true"/>
-<a href="https://github.com/camilagsoares">
-<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=camilagsoares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
 ## Me encontre 
 
 <a href = "mailto:camila.soares19@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -40,8 +34,6 @@
  
   
 
-
-![vue](https://github.com/camilagsoares/camilagsoares/assets/85360804/879bef5b-2341-4c3f-b2b2-cb464e73c7fc)
 
 
 
