@@ -9,13 +9,11 @@ Como estudante de Análise e Desenvolvimento de Sistemas, minha paixão está es
 
 
 
-## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/000/456/278/datas/original.gif"></a>
-- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
-- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
+## Me encontre: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/000/456/278/datas/original.gif"></a>
+- Entre em contato comigo pelo <a href="mailto:camila.soares19@hotmail.com"> E-mail</a> 🏓
+- Meu <a href="https://www.linkedin.com/in/camilagoulartsoares/">LinkedIn</a> 💼
 
 
-https://user-images.githubusercontent.com/62280849/128853969-84ff61d3-28c0-418d-9946-341ea61c7dce.gif
 ## Stack
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -34,12 +32,6 @@ https://user-images.githubusercontent.com/62280849/128853969-84ff61d3-28c0-418d-
 </div>
 
 
-## Me encontre 
-
-<a href = "mailto:camila.soares19@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/camilagoulartsoares/" target="_blank">
- <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
   
 
 
