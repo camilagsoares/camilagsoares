@@ -1,5 +1,4 @@
-# Oi,seja bem vindo 🖐👩🏻‍💻
-
+# Oi,seja bem vindo <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"/>👩🏻‍💻
 
 ## Sobre mim 😸
 
