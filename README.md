@@ -10,7 +10,7 @@ Como estudante de Análise e Desenvolvimento de Sistemas, minha paixão está es
 
 
 ## Me encontre: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/000/456/278/datas/original.gif"></a>
-- Entre em contato comigo pelo <a href="mailto:camila.soares19@hotmail.com"> E-mail</a> 🏓
+- Entre em contato comigo pelo <a href="mailto:camila.soares19@hotmail.com"> E-mail</a> ✉️
 - Meu <a href="https://www.linkedin.com/in/camilagoulartsoares/">LinkedIn</a> 💼
 
 <br><br>
