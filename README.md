@@ -3,11 +3,19 @@
 
 ## Sobre mim 😄
 
-* Meu nome é Camila Goulart Soares e sou de Itajubá - Minas Gerais
-* Bolsista programa Boticário Desenvolve 2022 - Web Full Stack
-* Estudante de Análise e Desenvolvimento de Sistemas
-* Apaixonada por desenvolvimento, em especial por front-end
 
+
+Como estudante de Análise e Desenvolvimento de Sistemas, minha paixão está especialmente voltada para o desenvolvimento frontend. Dedico-me diariamente aos estudos com o objetivo de me tornar uma programadora fullstack de excelência.
+
+
+
+## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/000/456/278/datas/original.gif"></a>
+- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
+- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
+- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
+
+
+https://user-images.githubusercontent.com/62280849/128853969-84ff61d3-28c0-418d-9946-341ea61c7dce.gif
 ## Stack
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
