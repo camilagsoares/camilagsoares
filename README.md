@@ -34,4 +34,8 @@ Como estudante de Análise e Desenvolvimento de Sistemas, minha paixão está es
   
 </div>
 
-  <img align="left" alt="Rafa-Csharp" height="400" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true">
+<div img align="center">
+   <img height="180em" width="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilagsoares&layout=compact&langs_count=7&theme=react&hide_border=true"/>
+<a href="https://github.com/camilagsoares">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilagsoares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
