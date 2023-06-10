@@ -4,7 +4,7 @@
 
 Como estudante de Análise e Desenvolvimento de Sistemas, minha paixão está especialmente voltada para o desenvolvimento frontend. Dedico-me diariamente aos estudos com o objetivo de me tornar uma programadora fullstack de excelência.
 
-## Me encontre: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/000/456/278/datas/original.gif"></a>
+## Me encontre: <a href="https://github.com/sponsors/camilagsoares"><img align="left" width="150" height="150" src="https://i.pinimg.com/originals/0f/a0/94/0fa09464c343885355e6aa4d2f4a88b5.gif"></a>
 - Entre em contato comigo pelo <a href="mailto:camila.soares19@hotmail.com"> E-mail</a> ✉️
 - Meu <a href="https://www.linkedin.com/in/camilagoulartsoares/">LinkedIn</a> 💼
 
