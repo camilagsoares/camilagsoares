@@ -35,9 +35,3 @@ Como estudante de Análise e Desenvolvimento de Sistemas, minha paixão está es
 </div>
 
   <img align="left" alt="Rafa-Csharp" height="400" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true">
-
-
-
-
-
-
