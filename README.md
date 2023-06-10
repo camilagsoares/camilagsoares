@@ -2,11 +2,7 @@
 
 ## Sobre mim 😸
 
-
-
 Como estudante de Análise e Desenvolvimento de Sistemas, minha paixão está especialmente voltada para o desenvolvimento frontend. Dedico-me diariamente aos estudos com o objetivo de me tornar uma programadora fullstack de excelência.
-
-
 
 ## Me encontre: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/000/456/278/datas/original.gif"></a>
 - Entre em contato comigo pelo <a href="mailto:camila.soares19@hotmail.com"> E-mail</a> ✉️
@@ -14,7 +10,14 @@ Como estudante de Análise e Desenvolvimento de Sistemas, minha paixão está es
 
 <br><br>
 
-
+<br>
+<div>
+  <a href="https://github.com/camilagsoares">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagosantana88&amp;show_icons=true&amp;theme=merko&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;"></a>
+  <a href="https://github.com/camilagsoares">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilagsoares88&amp;layout=compact&amp;langs_count=7&amp;theme=merko" style="max-width: 50%;"></a>
+  </div>
+  <br>  
 
 ## Stack
 <div style="display: inline_block"><br>
@@ -34,8 +37,3 @@ Como estudante de Análise e Desenvolvimento de Sistemas, minha paixão está es
   
 </div>
 
-<div img align="center">
-   <img height="400em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true"/>
-<a href="https://github.com/camilagsoares">
-<img height="400em" width="400em"  src="https://github-readme-stats.vercel.app/api?username=camilagsoares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
