@@ -31,10 +31,12 @@ Como estudante de Análise e Desenvolvimento de Sistemas, minha paixão está es
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://user-images.githubusercontent.com/85360804/141158960-85bdd01a-4d45-4122-9f06-536d24833f27.png">
    
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/camilagsoares/camilagsoares/assets/85360804/879bef5b-2341-4c3f-b2b2-cb464e73c7fc">
+  
+     <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilagsoares&hide_progress=true"/>
+
 </div>
 
 
-   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilagsoares&hide_progress=true"/>
 
 
 
