@@ -34,7 +34,13 @@ Como estudante de Análise e Desenvolvimento de Sistemas, minha paixão está es
 </div>
 
 
-  
+    <a href="https://github.com/camilagsoares/">
+    <img
+      align="center"
+      height="150"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilagsoares&&layout=compact&theme=light"
+    />
+  </a>
 
 
 
