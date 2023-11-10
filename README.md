@@ -35,6 +35,8 @@ Como estudante de Análise e Desenvolvimento de Sistemas, minha paixão está es
   <img src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue" />
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/Insomnia-675BC0?style=for-the-badge&logo=Insomnia&logoColor=white" />
+    <img src="https://img.shields.io/badge/Postman-F76936?style=for-the-badge&logo=Postman&logoColor=white" />
+
    <img src="https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&labelColor=black&logo=Docker&logoColor=1D63ED" />
 </p>
 
