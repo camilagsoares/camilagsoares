@@ -15,6 +15,8 @@ Como estudante de Análise e Desenvolvimento de Sistemas, minha paixão está es
   <a href="https://github.com/camilagsoares">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilagsoares&show_icons=true&theme=default#gh-light-mode-only" style="max-width: 100%;"></a>
   <a href="https://github.com/camilagsoares">
+     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilagsoares&&langs_count=6&theme=dark&layout=compact" alt="Alexandre-FP" />
+
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilagsoares&hide_progress=true" style="max-width: 50%;"></a>
   </div>
   
