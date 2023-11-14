@@ -41,5 +41,3 @@ Como estudante de Análise e Desenvolvimento de Sistemas, minha paixão está es
 </p>
 
 
-
-
