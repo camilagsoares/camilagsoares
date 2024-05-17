@@ -17,6 +17,8 @@ Como estudante de Análise e Desenvolvimento de Sistemas, minha paixão está es
 <p>
   <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" />
         <img src ="https://img.shields.io/badge/StyledComponents-C76395?style=for-the-badge&labelColor=white" />
+          <img src ="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />    
 
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />        
